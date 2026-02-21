@@ -18,7 +18,7 @@ Because this game uses third-party libraries, you will need to install the depen
 
 **1. Clone the repository and navigate to the folder:**
 ```bash
-git clone https://github.com/rizwanahmed109-beep/Python---Snake.git
+git clone https://github.com/RZ-Logic/Python---Snake.git
 cd Python---Snake
 ```
 
